@@ -1,0 +1,1 @@
+# Coma-separator-number-format-customized-in-Oracle-XML-Publisher
